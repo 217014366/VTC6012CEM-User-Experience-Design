@@ -4,7 +4,7 @@ A revamped website of Gray Line Tours of Macau Limited
 ## The original website
 http://www.grayline.com.mo/eng/index.html
 
-## Website Link
+## The revamped website
 https://217014366.github.io/VTC6012CEM-User-Experience-Design/
 
 ## Introduction
